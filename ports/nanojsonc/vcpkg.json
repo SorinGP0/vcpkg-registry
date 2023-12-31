@@ -1,0 +1,10 @@
+{
+  "name": "nanodjsonc",
+  "version": "1.0.0",
+  "port-version": 0,
+  "description": "A small C json library.",
+  "homepage": "https://github.com/saadshams/nanojsonc/",
+  "dependencies": [
+    
+  ]
+}
